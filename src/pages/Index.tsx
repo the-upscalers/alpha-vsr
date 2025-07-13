@@ -280,7 +280,7 @@ const Index = () => {
 							<CardContent>
 								<div className="aspect-video bg-gradient-to-br from-slate-100 to-slate-200 rounded-lg flex items-center justify-center">
 									<img
-										src="/ui.png"
+										src="./ui.png"
 										alt="Application Interface"
 										className="object-cover rounded-lg w-full h-full"
 									/>
@@ -301,7 +301,7 @@ const Index = () => {
 							<CardContent>
 								<div className="aspect-video bg-gradient-to-br from-slate-100 to-slate-200 rounded-lg flex items-center justify-center">
 									<img
-										src="/dashboard.png"
+										src="./dashboard.png"
 										alt="Analytics Dashboard"
 										className="object-cover rounded-lg w-full h-full"
 									/>
